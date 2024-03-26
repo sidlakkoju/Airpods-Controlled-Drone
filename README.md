@@ -1,6 +1,6 @@
 # Air Pods Controlled Drone
 
-This is a MacOS Swift UI app. It an easily be adapted for iOS too. 
+This is a MacOS Swift UI app. It an easily be adapted for iOS too. Open `Airpods Control.xcworkspace` in Xcode to build and run the project!
 
 Simply connected to your DJI Tello drone's wifi and launch the app. Use Air Pods with Spatial Audio compatibility to control the drone!
 
